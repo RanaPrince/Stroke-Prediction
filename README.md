@@ -7,3 +7,4 @@ This dataset is used to predict whether a patient is likely to get stroke based 
 
 
 [https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+Author : [fedesoriano](https://www.kaggle.com/fedesoriano)
